@@ -1,2 +1,2 @@
 # TesteTelefonica
-Teste Telefônica
+Aplicação desenvolvida para projeto de teste da telefónica
